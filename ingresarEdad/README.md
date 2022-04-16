@@ -1,4 +1,4 @@
-# Hola Mundo
+# Ingresar Edad
 - Compilador: MinGW
 - Version C: ??
 
