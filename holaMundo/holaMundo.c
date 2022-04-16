@@ -2,13 +2,8 @@
 
 int main(){
 
-	int edad;
-	printf("cual es su edad:(sin mentir): ");
 
-	scanf("%d",&edad);
+	printf("Hola Mundo, tengo %d años", 21);
 
-	printf("Su edad es %d", edad);	
-
-	return 0; 
-
+	return 0;
 }
